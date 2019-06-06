@@ -1,0 +1,9 @@
+Cihaz kapalı iken ses açma tuşuna basılı tutarken bilgisayara bağlayın.
+Driverların kurulu olduğundan emin olun.
+Aygıt yöneticisini açıp 9008'li portun COM numarasını bulun. Örnek fotoğraf mevcut. 
+Config.ini dosyasını açıp COMport=com7 yazısındaki com7 yazısını sizdeki com portu ile değiştirin. Örneğin com20.
+BackupRestoreTool'u çalıştırın, 1 yazıp basıp enter tuşuna basın, tekrar 1 yazıp enter tuşuna basın ve enter tuşuna 1 kez daha basın.
+Şimdi 2 yazıp enter tuşuna basın ve gm9pro yazıp tekrar enter tuşuna 2 kez basın. İşlem bitene kadar bekleyin.
+İşlem bittikten sonra bittiktensonrakopyalanacak klasörünün içindekileri gm9pro klasörünün içine kopyalayıp yapıştırın.
+İşlem tamam. QFIL yedeğiniz hazır. 
+@isameturkmen Telegram.

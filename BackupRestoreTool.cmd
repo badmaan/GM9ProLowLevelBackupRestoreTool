@@ -264,9 +264,9 @@ GOTO :EOF
 :CLEAR_TITLE
 CLS
 ECHO --------------------------------------------------------
-ECHO -     Mi A1 Low-level Backup/Restore/Flashing tool     -
+ECHO -     GM 9 Pro Low-level Backup/Restore/Flashing tool  -
 ECHO -                                                      -
-ECHO -          By CosmicDan@XDA and CosmicDan.com          -
+ECHO -              By isameturkmen@telegram                -
 ECHO -    Based on EMMCDL scripts thanks to @emuzychenko    -
 ECHO --------------------------------------------------------
 ECHO.
